@@ -133,6 +133,9 @@ where the first argument is a selector to a gallery (or galleries) containing `a
     <a href="img/2-2.jpg">
         <img src="img/thumbnails/2-2.jpg" alt="Second image">
     </a>
+    <a href="https://www.youtube.com/embed/[YouTube Video ID]" title="YouTube Video caption">
+        <img src="https://i.ytimg.com/vi/[YouTube Video ID]/maxresdefault.jpg">
+    </a>
     ...
 </div>
 ```
